@@ -1,0 +1,121 @@
+Name FOXC1	   Place                                                                                        
+122  -0.133016271  Heart                                                                 
+123  -0.198786428  PC3 cells in heart                                                    
+124  -0.192184781  PC3 cells in heart                                                    
+125  -0.30258883   Tumour                                                                
+126  -0.491608055  Normal Cornel endothelium                                                                                         
+127  -0.266659422  Fuch's Cornel endothelium                                             
+128  -0.085910878  Breast                                                                					
+129  -0.641237248  Breast                                                                
+131   3.223083632  Mammary Gland                                                         
+132  -0.313043983  Pooled Organs in memory gland                                         
+135   2.867134135  Mammary Gland                                                         
+139  -0.264385589  Mammary Gland                                                         
+140  -0.596509714  Brain,ependymoma                                                      				
+142  -0.574412619  Brain,astrocytoma                                                     
+144   1.930775069  Brain,astrocytoma                                                     
+145  -0.646831243  Skin                                                                  
+146  -0.875623203  Skin                                                                  	
+148  -0.616241372  AIDS-KS lesion                                                        
+150  -0.838329902  CD4+ T-cells	                                                         
+151  -0.591705555  Pancreatic normal cell                                                
+154  -0.255504002  Normal thyroid issue                                                                                                  	
+155  -0.258360034  Type2 Gaucher patient gray matter                                     	
+157  -0.835217377  Primary gastric cancer tissue                                         	
+159  -0.537870476  Primary gastric cancer tissue(adherent type)                          	
+161  -0.121834388  Stem cells	                                                         
+162  -0.739040559  Stem cells	                                                         
+163  -0.88200907   Medulloblastoma,cerebellum	
+164   1.002906742  Medulloblastoma,cerebellum  	
+165   1.618238069  Medulloblastoma,cerebellum	
+166  -0.788531538  Medulloblastoma,cerebellum
+167  -0.296437064  Pancreas,epithelium,ductal,carcinoma,cell line	
+168  -1.339804699  Pancreas,epithelium,ductal,carcinoma,cell line	
+169  -0.219049393  Brain astrocytoma
+170  -0.219049393  Brain astrocytoma
+172  -0.49894254   Brain astrocytoma	
+174  -0.486032381  Mammary Gland,endothelium,ductal,Carcinoma	
+175   1.099743114  Leucocytes from breast carcinoma	
+177  -0.600078227  Breast carcinoma epithelium	
+180  -0.528520688  Normal First trimester placenta
+181  -1.002965984  Normal term placenta					
+183  -0.360183774  Normal prostate epithelium
+184   2.089851762  Braest lung
+185  -0.78234313   Mammary gland,normal endothelium
+186   1.669320935  Normal leucocytes
+187   0.399933909  Mammary Gland
+188  -0.171374223  Normal breast stroma																
+190   0.18984967   Brain,medulloblastoma,cell line
+191  -0.319771841  Stomach
+192  -1.337117627  Brain,medulloblastoma
+193  -0.040701101  Brain ependymoma
+195   0.03984388   Brain, medulloblastoma, cell line
+202   2.085933115  Placenta
+205  -0.392585383  Brain, medulloblastoma with neuroblastic differentiation
+207   0.322033252  Brain, ependymoma
+209  -0.314546301  Skin, desmoplastic melanoma metastasis
+212   1.9996435    Brain desmoplastic medulloblastoma
+213  -0.077461059  Brain desmoplastic medulloblastoma
+214  -0.796091981  Brain desmoplastic medulloblastoma
+215   1.792293153  Bone marrow
+218  -0.77123453   Brain, anaplastic medulloblastoma  
+222   2.511652841  Brain, medulloblastoma
+224  -0.360143061  Brain, medulloblastoma, metastasis
+226   1.064654433  Brain, large cell medulloblastoma
+228   1.384128964  Breast, carcinoma, ductal, invasive
+229  -0.802789304  Normal liver
+231  -0.508003265  Primary ductal in situ breast carcinoma
+233  -0.621648086  Normal bone marrow
+235  -0.628766791  Lung cell line
+236  -0.406440089  Lung cell line
+237   0.270934101  Lung cell line
+238   1.807847635  Lung, poor differentiated adenocarcinoma with lymphoplasmatic infiltration
+239   0.48482299   Neonatal BJ foreskin primary fibroblasts
+240  -1.291840465  Neonatal BJ foreskin primary fibroblasts
+241   2.458377569  AT dermal fibroblasts
+245   1.422297599  Cultured THP-1 cells, proliferating
+247  -0.493885959  Normal adrenal cortex
+248   2.26056022   Primary pigmented nodular adrenocortical disease
+252  -0.655273127  Cartilage chondrosarcoma grade 2
+254  -0.757037834  Cartilage chondrosarcoma grade 2 
+261  -0.377277216  ER negative breast cancer cell line
+263  -0.22230645   ER negative breast cancer cell line
+264  -0.348267017  Embryonic stem cell H9
+265   2.18857112   Eye lens
+266  -0.384815267  Lung tumour, focal fibrosis and chronic inflammation
+267  -0.010141765  Pelvis myxoid chondrosarcoma grade 2
+268   1.748721875  Cartilage chondrosarcoma grade 3
+269   2.567892035  Cartilage chondrosarcoma grade 1
+270   1.522580344  Bone marrow CD34+ stem/progenitor cells
+271  -0.466190797  Cultured Schwann cells										
+272  -0.044053834  Kidney glomerulus 
+274  -0.414818868  Kidney proximal straight tubule
+275  -0.595443028  Kidney medullary thick ascending limb
+276   1.869654361  Kidney cortical thick ascending limb
+277  -0.683568809  Kidney distal convoluted tubule
+283  -1.126742288  E115 intact developing B6C3H forelimb
+284  -0.674290268  E115 intact developing B6C3H forelimb
+285  -0.521629977  R1 embryonic stem (ES) cells
+287  -0.720723685  Granular cell precursor cells
+290  -1.055274318  Heart
+292  -0.364739583  P19 embryonic carcinoma (EC) cells, differentiation Day 3+05
+293  -1.3882066    P19 embryonic carcinoma (EC) cells, differentiation Day 3+30
+294  -0.764439495  Cerebellum
+295  -0.368041424  Cartilage cell line (ATDC5 cells)
+296  -1.057356798  BMP4-induced ATDC5 cells
+297  -0.166441817  CD4+ Th1 clone (R22) from a primed A1rRAG-1x/x TCR transgenic specific for H-Y+H2Ek x
+298  -0.608849888  CD4+ Th1 clone (R24) from a primed A1rRAG-1x/x TCR transgenic specific for H-Y+H2Ek x
+300  -0.506867366  Draining lymph nodes, skin grafted anti-HY TCR transgenic female A1rRAG-1x/x
+301  -0.53176553   CD4+ Treg/Tr1-like clone from a naive A1rRAG-1x/x TCR transgenic Specific for H-Y+H2Ek
+302  -0.941993879  CD4+ Treg/Tr1-like H-Y+H2Ek specific line grown from the accepted male skin grafts of female A1(M) TCR transgenic
+303  -0.158799948  CD4+CD25-negative spleen cells
+305  -0.941222364  CD4+CD25- spleen cells (CD3 X-linked)
+306  -0.415869269  CD4+CD25+ spleen cells
+307   1.345514519  Draining lymph nodes were pooled from normal CBA/Ca grafted with B10BR (multiple minorantigen mismatched) skin r 5 411 tags
+309  -0.395879082  CD4+ Treg/Tr1-like clone from naive A1rRAG-1x/x TCR transgenic specific for H-Y+H2Ek x 
+310   1.882424059  CD4+ Th2 clone (R24) from a primed A1rRAG-1x/x TCR transgenic specific for H-Y+H2Ek
+311  -0.36012881   CD4+ Th1 clone (R22) from a primed A1rRAG-1x/x TCR transgenic specific for H-Y+H2Ek
+110  -1.228264751  Normal human muscle (old)
+111  -0.636357769  Normal human muscle (Young)
+47    2.261388734  Leukocyte
+75    1.257390774  Peritoneum, sheet (>90% mesothelial cells)
